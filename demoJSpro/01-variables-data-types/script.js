@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-
-</body>
-<script>
     // console.log("dzjj" + 1)
     // console.warn("virus")
     // let a = "Nguyen Van "
@@ -89,7 +76,3 @@ arr.push(100);
 // x = arr.slice(1, 4).reverse().toString().charAt(0);
 
 // console.log(x);
-
-</script>
-
-</html>

@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-<script>
-    let x;
+let x;
 // const arr = [28, 38, 44, 29, 109];
 
 // // shift() - Remove first value
@@ -45,5 +34,3 @@ x = arr.flat(); // trai phang array
 
 console.log({ x });
 // console.log({ abc });
-</script>
-</html>
